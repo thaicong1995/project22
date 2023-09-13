@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" newRepositoryParent="org.springframework.data.jpa.repository.JpaRepository">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="sourceModelValue" value="Default" />
+    <option name="reverseEngineeringLastDbConnectionId" value="aa567fc1-310c-48fd-b033-f9b68674a784" />
+    <option name="reLastEntityCreationPackage" value="test1 2/src/main/java/com/example/kiemtra1" />
+    <option name="newEntityIdStrategy" />
+  </component>
+</project>

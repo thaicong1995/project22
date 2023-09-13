@@ -1,0 +1,15 @@
+<security:http
+        auto-config="true"
+        disable-url-rewriting="true"
+        use-expressions="true" xmlns:security="">
+    <security:csrf />
+    <input
+            type="hidden"
+            th:name="${_csrf.parameterName}"
+            th:value="${_csrf.token}" />
+    <input
+            type="hidden"
+            name="_csrf"
+            value="32e9ae18-76b9-4330-a8b6-08721283d048" />
+    <!-- Remaining configuration ... -->
+</security:http>
